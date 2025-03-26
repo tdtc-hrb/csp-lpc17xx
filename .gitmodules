@@ -1,0 +1,12 @@
+[submodule "Common"]
+	path = Common
+	url = https://github.com/tdtc-hrb/csp-lpc17xx-common
+[submodule "SSP"]
+	path = SSP
+	url = https://github.com/tdtc-hrb/csp-lpc17xx-ssp
+[submodule "Startup"]
+	path = Startup
+	url = https://github.com/tdtc-hrb/csp-lpc17xx-startup
+[submodule "UART"]
+	path = UART
+	url = https://github.com/tdtc-hrb/csp-lpc17xx-uart
